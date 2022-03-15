@@ -7,8 +7,11 @@
 	<body>
 		<div class='container'><h1>O que eu mais gosto na ETEC</h1>
 			<div class='content'>
-				<h2>Dupla 1: Escreva o seu título. Exemplo: Cantina, professores, pátio, auditório, amigos, etc</h2>
-					<p>Escreva aqui o texto sobre o que mais gostam na ETEC</p>
+				<h2>Coisas que gosto na ETEC.</h2>
+					<p>
+					Das aulas, principalmente do técnico. Dos espaços para socialização.
+					</p>
+					<img  src='images/refeitorio'>
 			</div>
 		</div>
 	</body>
